@@ -4,20 +4,19 @@ A simple TO-DO app built using PHP, MySQL, and Bootstrap for managing tasks.
 
 ## Table of Contents
 
-- [Demo](#demo)
-- [Screenshots](#screenshots)
 - [Video](#video)
+- [Demo](#demo)
 - [Introduction](#introduction)
 - [Features](#features)
 - [Usage](#usage)
 
-## Demo
-
-Check out the live demo of the TO-DO App: [Demo Link](https://your-demo-link-here.com)
-
 ## Video
 
 https://github.com/Shohan999Ronol/tobo_app/assets/106506181/8d73d05c-5372-4cdc-b580-ff2cd7232766
+
+## Demo
+
+Check out the live demo of the TO-DO App: [Demo Link](https://your-demo-link-here.com)
 
 
 ## Introduction
