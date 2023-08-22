@@ -62,8 +62,6 @@ $conn->close();
 
 
 
-
-
       <?php
 
          include('database.php');
@@ -82,12 +80,8 @@ $conn->close();
           </li>";
       }
 
-
       $conn->close();
       ?>
-
-
-
 
     </ul>
   </div>
